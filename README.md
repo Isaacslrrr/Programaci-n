@@ -1,5 +1,6 @@
 # Programacion
 Contenidos y ejercicios de la asignatura de programación PAI5
+
 0. Definición de tres tipos distintos de variables
 1. Programa que muestre por pantalla la frase “hello world”
 2. Programa que introduzca por teclado tres tipos de variables y se muestren por pantalla
