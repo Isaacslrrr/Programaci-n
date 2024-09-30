@@ -7,7 +7,6 @@ var2=float(input("Introduce el seguundo valor :"))
 var3=var2+var1
 var4=var1-var2
 var5=var1*var2
-var6=(var1/var2)
 var7=var1**var2
 var8=var1//var2
 
