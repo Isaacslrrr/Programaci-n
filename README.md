@@ -1,6 +1,7 @@
 # Programacion
 Contenidos y ejercicios de la asignatura de programación PAI5
 
+EJERCICIOS INICIALES:
 0. Definición de tres tipos distintos de variables
 1. Programa que muestre por pantalla la frase “hello world”
 2. Programa que introduzca por teclado tres tipos de variables y se muestren por pantalla
@@ -36,3 +37,31 @@ es igual o superior a 25, debe aparecer un mensaje informando de sobrepeso.
 importantes descuentos. A los adultos se les aplicará un 10% de descuento y a los menores 
 de 18 años un 50%. Si la entrada cuesta 12 euros, calcula el total a pagar introduciendo por 
 teclado el número de menores y el número de adultos que asisten al cine
+
+EJERCICIOS CONDICIONALES:
+19. Programa que introduzca dos números y devuelva cuál de los dos es mayor, menor o son 
+iguales
+
+20. A partir del ejercicio anterior, forzar que el usuario solo pueda introducir por teclados 
+números entre 0 y 10
+
+21. Programa que calcula una ecuación de segundo grado. Controla que el valor de la raíz 
+cuadrada no de un valor negativo
+
+22. Programa que al introducir una nota por teclado te diga si has aprobado o suspendido. 
+Si la nota es menos de un 5 es suspenso y si la nota es 5 o mayor estás aprobado.
+
+24. Corrige los errores del siguiente código y comprueba que se ejecuta correctamente
+1var=float(input("Introduce el peso: "))
+2var=(input("Introduce la altura: "))
+var_imc==1var / 2var**2
+print("Si pesas {1Var} kilos y mides {2var}, tu IMC es:", 
+var_imc)
+if var_imc>25
+ print("Hay sobrepeso")
+else:
+ print("Estás dentro de los parámetros normales")
+25. Repite el programa número 23 pero en esta ocasión utilizando operadores lógicos.
+
+27. Realiza un programa que, al introducir una letra por teclado, aparezca por pantalla si 
+está o no en mayúscula. Utiliza dos IF’s que establezcan True o False a la condición.
