@@ -39,6 +39,7 @@ de 18 años un 50%. Si la entrada cuesta 12 euros, calcula el total a pagar intr
 teclado el número de menores y el número de adultos que asisten al cine
 
 EJERCICIOS CONDICIONALES:
+
 19. Programa que introduzca dos números y devuelva cuál de los dos es mayor, menor o son 
 iguales
 
