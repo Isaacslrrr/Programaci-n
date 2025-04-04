@@ -273,5 +273,55 @@ EJERCICIOS LISTAS:
 
 86. Realiza el ejercicio del DNI que encontrarás en el SwaY.
 
+JUTGE:
+
+P68688. Feu un programa que escrigui una línia amb el missatge “Bon dia a tothom!”.
+
+P62421. Feu un programa que llegeixi tres paraules a, b i c, i que escrigui una línia amb c, b i a en aquest ordre.
+
+P57548. Feu un programa que llegeixi dos nombres i que n’escrigui la suma.
+
+P41221. Feu un programa que llegeixi tres nombres i que n’escrigui la suma.
+
+P56118. Feu un programa que llegeixi dos nombres i que n’escrigui el màxim.
+
+P52847. Feu un programa que llegeixi tres nombres, tots diferents, i que n’escrigui el màxim.
+
+P90615. Feu un programa que llegeixi tres nombres i que n’escrigui el màxim. Aquest exercici és una mica més difícil 
+
+P15613. Feu un programa que llegeixi un enter que representa una temperatura en graus Celsius, i que digui si fa calor, si fa fred, o si s’està bé. Suposeu que fa calor si la temperatura és més alta que 30 graus, que fa fred si és més baixa que 10 graus, i que s’està bé en altre cas. A més, cal avisar si amb temperatura donada l’aigua bulliria, o si es gelaria. Suposeu que l’aigua bull amb 100 o més graus, i que es gela amb 0 o menys graus.
+
+P48107. Feu un programa que llegeixi dos naturals a i b, amb b > 0, i que escrigui la divisió entera d i el residu r de a entre b.
+Recordeu que, per definició, d i r han de ser els únics enters tals que 0 ≤ r < b i d · b + r = a.
+
+P92351. Feu un programa que llegeixi un enter a i un natural b, amb b > 0, i que escrigui la divisió entera d i el residu r de a entre b.
+Recordeu que, per definició, d i r han de ser els únics enters tals que 0 ≤ r < b i d · b + r = a.
+
+P98960. Feu un programa que llegeixi una lletra i que l’escrigui en minúscula si era majúscula, o l’escrigui en majúscula si era minúscula.
+
+P42042. Feu un programa que llegeixi una lletra i que indiqui si és una majúscula, si és una minúscula, si és una vocal, i si és una consonant. Recordeu que en català les vocals són les lletres ‘a’, ‘e’, ‘i’, ‘o’ i ‘u’, i llurs majúscules.
+
+P90226. Feu un programa que llegeixi dues paraules i que n’indiqui l’ordre lexicogràfic.
+
+P92613. Feu un programa que llegeixi un real x≥0 i que escrigui ⌊ x ⌋ (la part entera inferior de x), ⌈ x ⌉ (la part entera superior de x), i l’arrodoniment de x.
+
+P37469. Feu un programa que, donada una quantitat de segons, digui quantes hores, minuts i segons representa.
+
+P34279. Feu un programa que afegeixi un segon a una hora del dia, donades les seves hores, minuts i segons.
+
+P81629. Feu un programa que, donada una quantitat d’euros i de cèntims, calculi el nombre mínim de bitllets i monedes necessaris per assolir aquella quantitat. Es disposa de monedes de 1, 2, 5, 10, 20 i 50 cèntims i de 1 i 2 euros, i de bitllets de 5, 10, 20, 50, 100, 200 i 500 euros.
+
+P61634. Feu un programa que indiqui si un any és de traspàs o no.
+Un any de traspàs té 366 dies. Després de la reforma gregoriana, els anys de traspàs són els múltiples de quatre que no acaben en dos zeros, i també els acabats en dos zeros tals que el nombre que queda després de treure els dos zeros finals és divisible per quatre. Així, 1800 i 1900, tot i ser múltiples de quatre, no foren de traspàs; en canvi, 2000 ho va ser.
+
+P51126. Feu un programa que, donats dos intervals, en calculi l’interval corresponent a la intersecció o indiqui que aquesta és buida.
+
+P56559. Feu un programa que, donats dos intervals, indiqui si un es troba dins de l’altre.
+
+P89265. Feu un programa que, donats dos intervals, indiqui si un es troba dins de l’altre, i que calculi l’interval corresponent a la seva intersecció o indiqui que aquesta és buida.
+
+P58294. Feu un programa que escrigui “La Resposta a la Pregunta Definitiva sobre la Vida, l’Univers i Tot Plegat”.
+
+
 
 
