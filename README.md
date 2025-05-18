@@ -322,6 +322,42 @@ P89265. Feu un programa que, donats dos intervals, indiqui si un es troba dins d
 
 P58294. Feu un programa que escrigui “La Resposta a la Pregunta Definitiva sobre la Vida, l’Univers i Tot Plegat”.
 
+TINKERCAD EJERCICIOS INICIALES:
 
+1. Programa el código que permita iluminar de manera intermitente un led cada 1 segundo.
 
+2. Programa un código que permita iluminar de manera simultánea dos leds
+
+3. Programa el código que permita iluminar de manera intermitente un led cada 1 segundo.
+
+4. A partir del diseño anterior, realiza un nuevo circuito que permita cada 3 ciclos (apagado y
+encendido de los dos leds, estos queden encendidos de manera permanente.
+
+5. Crea un programa que cada 5 segundos se encienda y apague un led, cada vez que se
+realice un ciclo el tiempo de espera se reducirá un 1/2 segundo. El resultado final el led
+tiene que quedar encendido
+
+6. Programa un circuito con un botón y led. Al pulsar el pulsador el led se enciende, al soltar
+el pulsador el led se apaga. Ver anexo para consultar conexión de botón
+
+7. Modifica el diseño anterior para que los dos leds se enciendan alternativamente según
+pulse o no el pulsador.
+
+8. Busca en Internet qué es un led RGB y programa un sencillo ejercicio para que este
+componente funcione en intervalos de 1 segundo.
+
+9. A partir del código anterior, haz que al pulsar el botón permanezca encendido un color
+durante tres segundos y a continuación siga con los intervalos iniciales.
+
+10.Programa un código que simule el comportamiento de un semáforo. Cada led estará
+iluminado durante 5 segundos, estará intermitente durante 3 segundos, se apagará para
+que continúe el proceso el otro led.
+
+11. Serial begin (9600) Serial.println son instrucciones que permiten simular la conexión de
+Arduino por el puerto serie y la vez nos permiten visualizar el comportamiento por la
+consola del ide. Diseña un programa sencillo que permita visualizar los valores por la
+consola
+
+12.A partir del ejercicio anterior, haz un programa que contabilice las veces que aparece el
+color verde, cada 5 veces que aparezca el led rojo sonará un pitido.
 
